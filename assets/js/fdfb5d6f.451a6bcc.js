@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkproyecto_02=self.webpackChunkproyecto_02||[]).push([[442],{4581:e=>{e.exports=JSON.parse('{"permalink":"/Documentacion-C02/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
